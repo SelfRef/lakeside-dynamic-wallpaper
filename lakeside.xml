@@ -11,134 +11,134 @@
 	</starttime>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-0.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-0.jpg</file>
 		<duration>7152.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-0.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-1.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-0.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-1.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-1.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-1.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-1.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-2.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-1.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-2.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-2.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-2.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-2.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-3.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-2.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-3.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-3.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-3.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-3.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-4.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-3.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-4.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-4.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-4.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-4.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-5.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-4.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-5.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-5.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-5.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-5.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-6.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-5.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-6.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-6.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-6.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-6.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-7.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-6.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-7.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-7.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-7.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-7.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-8.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-7.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-8.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-8.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-8.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-8.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-9.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-8.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-9.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-9.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-9.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-9.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-10.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-9.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-10.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-10.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-10.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-10.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-11.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-10.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-11.jpg</to>
 	</transition>
 
 	<static>
-		<file>/home/tm/Pictures/Wallpapers/lakeside/lakeside-11.jpg</file>
+		<file>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-11.jpg</file>
 		<duration>7140.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>59.0</duration>
-		<from>/home/tm/Pictures/Wallpapers/lakeside/lakeside-11.jpg</from>
-		<to>/home/tm/Pictures/Wallpapers/lakeside/lakeside-0.jpg</to>
+		<from>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-11.jpg</from>
+		<to>/home/tm/Pictures/Wallpapers/Lakeside/lakeside-0.jpg</to>
 	</transition>
 </background>
