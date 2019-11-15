@@ -8,5 +8,6 @@ $wallpaperPath/update_paths.sh
 
 echo 'Setting wallpaper...'
 gsettings set org.gnome.desktop.background picture-uri "file:///$wallpaperPath/lakeside.xml"
+gsettings set org.gnome.desktop.screensaver picture-uri "file:///$wallpaperPath/lakeside.xml"
 
 echo 'Done'
