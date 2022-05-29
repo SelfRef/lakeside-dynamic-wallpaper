@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. `git clone gitlab:tm/lakeside.git ~/Pictures/Wallpapers/Lakeside`
+1. `git clone https://github.com/SelfRef/lakeside-dynamic-wallpaper.git ~/Pictures/Wallpapers/Lakeside`
 2. `cd ~/Pictures/Wallpapers/Lakeside`
 3. `./install.sh`
 
