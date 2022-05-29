@@ -1,6 +1,8 @@
 # Sidelake Dynamic Wallpaper
 
-## Installation
+![preview](lakeside-6.jpg)
+
+## Setup
 
 1. `git clone https://github.com/SelfRef/lakeside-dynamic-wallpaper.git ~/Pictures/Wallpapers/Lakeside`
 2. `cd ~/Pictures/Wallpapers/Lakeside`
